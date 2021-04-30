@@ -1,0 +1,5 @@
+Name: Install Prometheus
+Server: host001
+Task:
+  - Name: Download Software
+    Command: "wget https://prometheus.io/downloads"
